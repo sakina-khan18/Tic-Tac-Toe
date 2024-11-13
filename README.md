@@ -1,2 +1,1 @@
-# Tic-Tac-Toe
-Author-Sakina Khan
+A classic Tic Tac Toe game built with HTML , CSS , JAVASCRIPT . This simple yet engaging game allows two players to take turns marking X and O on a 3x3 grid, aiming to be the first to align three symbols in a row, column, or diagonal wins .
